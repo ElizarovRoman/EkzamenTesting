@@ -1,1 +1,2 @@
 # EkzamenTesting
+Вариант 6
